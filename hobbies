@@ -1,0 +1,50 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Minimal by Steve Smith</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1> <a href="https://martina00soledad.github.io" title="Martina">Martina Nieva </a> </h1>
+        <p>Mi página personal</p>
+        <p>Mi página personal</p>
+
+      
+      </header>
+      <section>
+<head>
+	<title>Compra de pack</title>
+</head>
+<body>
+
+        <img src="beatles.png" alt="beatles">
+        
+        
+Me gusta mucho leer literatura, mis autores favoritos son Cortazar y Alejandra Pizarnik.
+Mi estación favorita es el invierno, me encanta ir a tomar café aunque no me gusta demasiado cuando hay demasiada gente alrededor.
+En el futuro me gustaría aprender a tocar un instrumento, mientras no tengo tiempo por todo lo que que leer :(. <br>
+
+Les dejo una <a href="https://open.spotify.com/playlist/2JkPM5FSxEnceD9ZzNH088?si=b8a19835e2ca4f1d" title="playlist">playlist</a> de mi banda favorita :).
+
+
+
+
+</body>
+ 
+	      
+      </section>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
